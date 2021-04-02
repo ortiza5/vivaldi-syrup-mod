@@ -1,7 +1,7 @@
 (function () {
   function syrup() {
     // CONFIG: ------------------------------
-    const SYRUP_DURATION = 60000;
+    const SYRUP_DURATION = 300000; // 5 minutes
     const DOES_SIGN_FLASH = false;
 
     // END CONFIG ---------------------------
